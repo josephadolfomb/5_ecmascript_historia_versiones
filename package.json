@@ -16,6 +16,7 @@
   ],
   "author": "Joseph Morán <joseph@rinagency.com>",
   "license": "MIT",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/josephadolfomb/5_ecmascript_historia_versiones/issues"
   },

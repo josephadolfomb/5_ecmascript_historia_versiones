@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/josephadolfomb/5_ecmascript_historia_versiones/issues"
   },
-  "homepage": "https://github.com/josephadolfomb/5_ecmascript_historia_versiones#readme"
+  "homepage": "https://github.com/josephadolfomb/5_ecmascript_historia_versiones#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
 }
